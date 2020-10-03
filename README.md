@@ -1,2 +1,4 @@
 # DevCuHobbies
-Just add your hobbiess and you are done!
+Just add your hobbiess and you are done!  
+
+Follow the steps [here](CONTRIBUTING.md)
