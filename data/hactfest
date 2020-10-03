@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Show a file-select field:</h1>
+
+<h3>Show a file-select field which allows only one file to be chosen:</h3>
+<form action="/action_page.php">
+  Select a file: <input type="file" name="myFile"><br><br>
+  <input type="submit">
+</form>
+
+<h3>Show a file-select field which allows multiple files:</h3>
+<form action="/action_page.php">
+  Select files: <input type="file" name="myFile" multiple><br><br>
+  <input type="submit">
+</form>
+
+</body>
+</html>
