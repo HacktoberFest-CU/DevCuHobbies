@@ -1,11 +1,11 @@
-# Fourth-PR
+# DevCuHobbies
 
 
 Lets start how to do a PULL REQUEST.
 For that you need to fork the repository.
 
 Fork this repository 
-[Fourth-PR](https://github.com/HacktoberFest-CU/Fourth-PR)
+[DevCuHobbies](https://github.com/HacktoberFest-CU/DevCuHobbies)
 
 Click on Fork Button.
 
